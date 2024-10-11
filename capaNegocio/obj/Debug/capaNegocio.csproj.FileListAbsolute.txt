@@ -1,0 +1,31 @@
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\bin\Debug\capaAccesoDatos.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\bin\Debug\capaEntidades.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\bin\Debug\capaAccesoDatos.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\bin\Debug\capaEntidades.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csprojAssemblyReference.cache
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csproj.ResolveComReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaNegocio.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaNegocio.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaAccesoDatos.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaEntidades.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\EntityFramework.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaAccesoDatos.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaEntidades.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaEntidades.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\EntityFramework.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csproj.ResolveComReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaNegocio\bin\Debug\capaAccesoDatos.dll.config

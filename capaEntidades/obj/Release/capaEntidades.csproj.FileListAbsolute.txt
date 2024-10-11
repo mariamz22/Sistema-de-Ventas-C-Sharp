@@ -1,0 +1,5 @@
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\bin\Release\capaEntidades.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\bin\Release\capaEntidades.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\obj\Release\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\obj\Release\capaEntidades.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\obj\Release\capaEntidades.pdb

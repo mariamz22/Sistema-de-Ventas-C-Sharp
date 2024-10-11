@@ -1,0 +1,18 @@
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.csprojAssemblyReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\bin\Debug\capaEntidades.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\bin\Debug\capaEntidades.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\bin\Debug\EntityFramework.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\bin\Debug\EntityFramework.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.csproj.AssemblyReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.csproj.CopyComplete
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaEntidades\obj\Debug\capaEntidades.pdb

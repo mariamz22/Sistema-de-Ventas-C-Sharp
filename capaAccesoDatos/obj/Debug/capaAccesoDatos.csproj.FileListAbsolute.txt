@@ -1,0 +1,24 @@
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaAccesoDatos.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaAccesoDatos.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaEntidades.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaEntidades.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.csproj.CopyComplete
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.csprojAssemblyReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.csproj.AssemblyReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaAccesoDatos.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaAccesoDatos.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaAccesoDatos.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaEntidades.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\EntityFramework.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaEntidades.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\capaEntidades.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\EntityFramework.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaAccesoDatos\obj\Debug\capaAccesoDatos.csproj.CopyComplete

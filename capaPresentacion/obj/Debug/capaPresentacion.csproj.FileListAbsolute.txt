@@ -1,0 +1,67 @@
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmAcceso.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaEntidades.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaAccesoDatos.dll
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaEntidades.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\bin\Debug\capaAccesoDatos.pdb
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmMenuPrincipal.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmNuevoProducto.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmEmpleado.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmCategoria.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmLaboratorio.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmProveedor.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmProducto.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmVenta.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+C:\Users\Maria Mendoza\Desktop\PROYECTO FARMACIA\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmAcceso.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmCategoria.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmEmpleado.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmLaboratorio.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmMenuPrincipal.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmNuevoProducto.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmProducto.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmProveedor.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmVenta.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaEntidades.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaNegocio.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\EntityFramework.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaAccesoDatos.dll
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaEntidades.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaEntidades.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaNegocio.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaNegocio.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\EntityFramework.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaAccesoDatos.pdb
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\bin\Debug\capaAccesoDatos.dll.config
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\_Maria\Proyectos\BoticaSaldaña\capaPresentacion\obj\Debug\capaPresentacion.FrmMenu.resources
